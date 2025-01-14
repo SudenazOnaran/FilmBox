@@ -1,0 +1,307 @@
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\NYPfinalodev.exe.config
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\NYPfinalodev.exe
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\NYPfinalodev.pdb
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.exe
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.pdb
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Npgsql.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Text.Json.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Npgsql.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Text.Json.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\HP\source\repos\NYPfinalodev\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\HP\source\repos\NYPfinalodev\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.exe.config
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.pdb
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Bunifu.Licensing.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Npgsql.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\Npgsql.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Channels.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.pdb
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.exe.config
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.exe
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\NYPfinalodev.pdb
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Npgsql.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Npgsql.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.exe
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.pdb
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevs\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Raporform.resources
+C:\Users\HP\Desktop\NYPfinalodevs\obj\Debug\NYPfinalodev.Kaydol.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\NYPfinalodev.exe.config
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\NYPfinalodev.exe
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\NYPfinalodev.pdb
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Npgsql.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Npgsql.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Kaydol.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.Raporform.resources
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.exe
+C:\Users\HP\Desktop\NYPfinalodevsss\obj\Debug\NYPfinalodev.pdb
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.exe.config
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.pdb
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Npgsql.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Npgsql.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Kaydol.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Raporform.resources
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.pdb
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.exe.config
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\NYPfinalodev.pdb
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Npgsql.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Channels.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Npgsql.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Channels.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form1.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form2.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Form3.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Kaydol.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.Raporform.resources
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.csproj.CopyComplete
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.exe
+C:\Users\DELL\Desktop\Nesne Yönelimli Programlama Final Ödevi\NesneYönelimliProgramlamaFinalProjesi\obj\Debug\NYPfinalodev.pdb
